@@ -1,0 +1,12 @@
+pyodbc
+tabulate
+langchain
+langchain-community
+langchain-core
+langchain-experimental
+langchain-ollama
+pandas
+sqlalchemy
+python-dotenv
+matplotlib
+openpyxl
